@@ -4,7 +4,7 @@
       "id": 1,
       "title": "Кофе",
       "description": "",
-      "photo": "./image/categoryCofe.svg"
+      "photo": "https://static.thedaringkitchen.com/wp-content/uploads/2022/01/latte-1536x1024.jpeg"
     },
     {
       "id": 2,
@@ -22,7 +22,7 @@
       "id": 4,
       "title": "Завтрак",
       "description": "",
-      "photo": "https://avatars.mds.yandex.net/get-images-cbir/2126823/Bk8pN3UVM0O53RpqmzfDEQ8138/ocr"
+      "photo": "https://img.travel.rakuten.co.jp/share/image_up/142886/LARGE/39af963bd6a7ba94e0c55627c721d66140e2cc40.47.9.26.3.jpg"
     },
     {
       "id": 5,
@@ -33,51 +33,51 @@
     {
       "id": 6,
       "title": "Салаты",
-      "description": "",
-      "photo": "https://avatars.mds.yandex.net/get-images-cbir/1847710/3cTTrdN0bOsLRrBYltZ3Bw8231/ocr"
+      "description": "https://static.thedaringkitchen.com/wp-content/uploads/2022/01/latte-1536x1024.jpeg",
+      "photo": ""
     },
     {
       "id": 7,
       "title": "Гамбургеры",
       "description": "",
-      "photo": "https://avatars.mds.yandex.net/get-images-cbir/997915/5H9re1r1eUvKqGdU992AVQ8583/ocr"
+      "photo": "https://static.thedaringkitchen.com/wp-content/uploads/2022/01/latte-1536x1024.jpeg"
     },
     {
       "id": 8,
       "title": "Пиццы",
       "description": "",
-      "photo": "https://avatars.mds.yandex.net/get-images-cbir/105757/0aluSEiQ-xsx8CIkD_Ao9g8619/ocr"
+      "photo": "https://static.thedaringkitchen.com/wp-content/uploads/2022/01/latte-1536x1024.jpeg"
     },
     {
       "id": 9,
       "title": "Десерты",
       "description": "",
-      "photo": "https://avatars.mds.yandex.net/get-images-cbir/979375/VNurlrZNxrfFB6c5W2u2ig8685/ocr"
+      "photo": "https://static.thedaringkitchen.com/wp-content/uploads/2022/01/latte-1536x1024.jpeg"
     },
     {
       "id": 10,
       "title": "Закуски",
       "description": "",
-      "photo": "https://avatars.mds.yandex.net/get-images-cbir/1046772/ZD6mvAyDEG8lqlO7AxgoaQ8738/ocr"
+      "photo": "https://static.thedaringkitchen.com/wp-content/uploads/2022/01/latte-1536x1024.jpeg"
     },
     {
       "id": 11,
       "title": "Стейк",
       "description": "",
-      "photo": "https://avatars.mds.yandex.net/get-images-cbir/1780006/5nU1e63Rpgc2tcbJUd6aCw8779/ocr"
+      "photo": "https://static.thedaringkitchen.com/wp-content/uploads/2022/01/latte-1536x1024.jpeg"
     },
     {
       "id": 12,
       "title": "Бутерброды",
       "description": "",
-      "photo": "https://avatars.mds.yandex.net/get-images-cbir/1726481/LtI_1WR2r3eifaccbCTGBA8822/ocr"
+      "photo": "https://static.thedaringkitchen.com/wp-content/uploads/2022/01/latte-1536x1024.jpeg"
     }
   ],
   "cards": [
     {
       "id": 101,
       "title": "Албанские",
-      "image": "https://avatars.mds.yandex.net/get-images-cbir/2126710/v5q0bxk0iwQYWZtoHdX2kg8988/ocr",
+      "image": "https://static.thedaringkitchen.com/wp-content/uploads/2022/01/latte-1536x1024.jpeg",
       "description": "",
       "price": "215.00",
       "volume": "220",
@@ -87,7 +87,7 @@
     {
       "id": 102,
       "title": "кофе 'Американо'",
-      "image": "https://avatars.mds.yandex.net/get-images-cbir/1750762/aG5ONANHU3yFIzN8dBT_iQ8423/ocr",
+      "image": "https://static.thedaringkitchen.com/wp-content/uploads/2022/01/latte-1536x1024.jpeg",
       "description": "",
       "price": "205.00",
       "volume": "220",
@@ -97,7 +97,7 @@
     {
       "id": 103,
       "title": "Английские",
-      "image": "https://avatars.mds.yandex.net/get-images-cbir/768942/dE0pQUckeJB7SJmfY2uLbg8482/ocr",
+      "image": "https://static.thedaringkitchen.com/wp-content/uploads/2022/01/latte-1536x1024.jpeg",
       "description": "",
       "price": "215.00",
       "volume": "220",
@@ -117,7 +117,7 @@
     {
       "id": 105,
       "title": "Арабские",
-      "image": "https://avatars.mds.yandex.net/get-images-cbir/2000237/mXYUv7DHDVUh4tCoI0-YeA9111/ocr",
+      "image": "https://static.thedaringkitchen.com/wp-content/uploads/2022/01/latte-1536x1024.jpeg",
       "description": "",
       "price": "215.00",
       "volume": "220",
@@ -127,7 +127,7 @@
     {
       "id": 106,
       "title": "Армянские",
-      "image": "https://avatars.mds.yandex.net/get-images-cbir/1671315/yri9bycAvXExn4gkjSDo7g9207/ocr",
+      "image": "https://static.thedaringkitchen.com/wp-content/uploads/2022/01/latte-1536x1024.jpeg",
       "description": "",
       "price": "215.00",
       "volume": "220",
@@ -137,7 +137,7 @@
     {
       "id": 107,
       "title": "Балканские",
-      "image": "https://avatars.mds.yandex.net/get-images-cbir/1906728/qluBXPI8xcOkt_Hg-Dhj0w6516/ocr",
+      "image": "https://static.thedaringkitchen.com/wp-content/uploads/2022/01/latte-1536x1024.jpeg",
       "description": "",
       "price": "215.00",
       "volume": "220",
@@ -147,7 +147,7 @@
     {
       "id": 108,
       "title": "Башкирские",
-      "image": "https://avatars.mds.yandex.net/get-images-cbir/1593758/2Wr5bJnMto_6nXfOI_qGzQ1293/ocr",
+      "image": "https://static.thedaringkitchen.com/wp-content/uploads/2022/01/latte-1536x1024.jpeg",
       "description": "",
       "price": "215.00",
       "volume": "220",
@@ -157,7 +157,7 @@
     {
       "id": 201,
       "title": "Чашка для коктейлей",
-      "image": "https://avatars.mds.yandex.net/get-images-cbir/1747226/nchPA6KdCeqZUqnRnTR2lw2785/ocr",
+      "image": "https://static.thedaringkitchen.com/wp-content/uploads/2022/01/latte-1536x1024.jpeg",
       "description": "",
       "price": "215.00",
       "volume": "220",
@@ -167,7 +167,7 @@
     {
       "id": 202,
       "title": "Острый коктейль",
-      "image": "https://avatars.mds.yandex.net/get-images-cbir/4623352/h2ALVDUme7SYPDTiVtxGEA3838/ocr",
+      "image": "https://static.thedaringkitchen.com/wp-content/uploads/2022/01/latte-1536x1024.jpeg",
       "description": "",
       "price": "215.00",
       "volume": "220",
@@ -177,7 +177,7 @@
     {
       "id": 203,
       "title": "Необычные коктейли",
-      "image": "https://avatars.mds.yandex.net/get-images-cbir/2094582/AelCpzxKwL_cn7oYih0SVQ4037/ocr",
+      "image": "https://static.thedaringkitchen.com/wp-content/uploads/2022/01/latte-1536x1024.jpeg",
       "description": "",
       "price": "215.00",
       "volume": "220",
@@ -197,7 +197,7 @@
     {
       "id": 205,
       "title": "Готовый коктейль",
-      "image": "https://avatars.mds.yandex.net/get-images-cbir/1646092/3zgUqH39cIx7VWD6jJSrog4223/ocr",
+      "image": "https://static.thedaringkitchen.com/wp-content/uploads/2022/01/latte-1536x1024.jpeg",
       "description": "",
       "price": "215.00",
       "volume": "220",
@@ -207,7 +207,7 @@
     {
       "id": 206,
       "title": "Delicious cocktail",
-      "image": "https://avatars.mds.yandex.net/get-images-cbir/1970235/UVPX0AeHUVwxtJWQejh0LA4281/ocr",
+      "image": "https://static.thedaringkitchen.com/wp-content/uploads/2022/01/latte-1536x1024.jpeg",
       "description": "",
       "price": "215.00",
       "volume": "220",
@@ -237,7 +237,7 @@
     {
       "id": 301,
       "title": "Чашка чая",
-      "image": "https://avatars.mds.yandex.net/get-images-cbir/1614136/HLgaO32GmPLGcnsfo066Lw4818/ocr",
+      "image": "https://static.thedaringkitchen.com/wp-content/uploads/2022/01/latte-1536x1024.jpeg",
       "description": "",
       "price": "215.00",
       "volume": "220",
@@ -247,7 +247,7 @@
     {
       "id": 401,
       "title": "Fried1ton Healty food",
-      "image": "https://avatars.mds.yandex.net/get-images-cbir/250430/MFGROJckzCpsRkK4HzcgUA5343/ocr",
+      "image": "https://static.thedaringkitchen.com/wp-content/uploads/2022/01/latte-1536x1024.jpeg",
       "description": "",
       "price": "215.00",
       "volume": "220",
@@ -257,7 +257,7 @@
     {
       "id": 501,
       "title": "Сливочный суп",
-      "image": "https://avatars.mds.yandex.net/get-images-cbir/849671/d1rSpU6XwYGtFLiaarnXZQ5543/ocr",
+      "image": "https://static.thedaringkitchen.com/wp-content/uploads/2022/01/latte-1536x1024.jpeg",
       "description": "",
       "price": "215.00",
       "volume": "220",
@@ -267,7 +267,7 @@
     {
       "id": 601,
       "title": "Греческий салат",
-      "image": "https://avatars.mds.yandex.net/get-images-cbir/1774026/cyHb6-fJaCXi5vVrbeCwPw5676/ocr",
+      "image": "https://static.thedaringkitchen.com/wp-content/uploads/2022/01/latte-1536x1024.jpeg",
       "description": "",
       "price": "215.00",
       "volume": "220",
@@ -307,7 +307,7 @@
     {
       "id": 1001,
       "title": "Закуски к шампанскому",
-      "image": "https://avatars.mds.yandex.net/get-images-cbir/1368139/T8GLSIBret-AMPe-Yarxsg6150/ocr",
+      "image": "https://static.thedaringkitchen.com/wp-content/uploads/2022/01/latte-1536x1024.jpeg",
       "description": "",
       "price": "215.00",
       "volume": "220",
@@ -317,7 +317,7 @@
     {
       "id": 1101,
       "title": "Стейк 'Американское'",
-      "image": "https://avatars.mds.yandex.net/get-images-cbir/1669978/qagVdJjdmUtIiKNI0qZ9vg6220/ocr",
+      "image": "https://static.thedaringkitchen.com/wp-content/uploads/2022/01/latte-1536x1024.jpeg",
       "description": "",
       "price": "215.00",
       "volume": "220",
@@ -327,7 +327,7 @@
     {
       "id": 1201,
       "title": "Бутерброд 'Праздничный'",
-      "image": "https://avatars.mds.yandex.net/get-images-cbir/1958764/6LlejtptzZD1Ox81R19bog6303/ocr",
+      "image": "https://static.thedaringkitchen.com/wp-content/uploads/2022/01/latte-1536x1024.jpeg",
       "description": "",
       "price": "215.00",
       "volume": "220",
