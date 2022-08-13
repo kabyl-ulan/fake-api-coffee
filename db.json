@@ -4,7 +4,7 @@
       "id": 1,
       "title": "Кофе",
       "description": "",
-      "photo": "https://avatars.mds.yandex.net/get-images-cbir/1593758/2Wr5bJnMto_6nXfOI_qGzQ1293/ocr"
+      "photo": "./image/categoryCofe.svg"
     },
     {
       "id": 2,
