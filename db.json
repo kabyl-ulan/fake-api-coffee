@@ -79,7 +79,7 @@
       "title": "кофе Капучино",
       "image": "https://static.thedaringkitchen.com/wp-content/uploads/2022/01/latte-1536x1024.jpeg",
       "description": "",
-      "price": "215.00",
+      "price": "215",
       "volume": "220",
       "categories__id": 1
     },
@@ -88,7 +88,7 @@
       "title": "кофе Американо",
       "image": "https://static.thedaringkitchen.com/wp-content/uploads/2022/01/latte-1536x1024.jpeg",
       "description": "",
-      "price": "205.00",
+      "price": "205",
       "volume": "220",
       "categories__id": 1
     },
@@ -97,7 +97,7 @@
       "title": "кофе Эспрессо",
       "image": "https://static.thedaringkitchen.com/wp-content/uploads/2022/01/latte-1536x1024.jpeg",
       "description": "",
-      "price": "215.00",
+      "price": "215",
       "volume": "220",
       "categories__id": 1
     },
@@ -106,7 +106,7 @@
       "title": "кофе Латте",
       "image": "https://sun9-54.userapi.com/impg/EZK5R8rWqvUzfTzdXzfOuEqZvAmyn_GuQaR6og/hrk8tpSNh94.jpg?size=1280x898&quality=96&sign=276a86c4033cc680caa8820c12780041&c_uniq_tag=Y9pDmbWivfkCWN1xHjRrmd1wjf1-ZlgYJl5_KTxpEeA&type=album",
       "description": "",
-      "price": "215.00",
+      "price": "215",
       "volume": "220",
       "categories__id": 1
     },
@@ -115,7 +115,7 @@
       "title": "кофе Фраппе",
       "image": "https://static.thedaringkitchen.com/wp-content/uploads/2022/01/latte-1536x1024.jpeg",
       "description": "",
-      "price": "215.00",
+      "price": "215",
       "volume": "220",
       "categories__id": 1
     },
@@ -124,7 +124,7 @@
       "title": "кофе Мокачино",
       "image": "https://static.thedaringkitchen.com/wp-content/uploads/2022/01/latte-1536x1024.jpeg",
       "description": "",
-      "price": "215.00",
+      "price": "215",
       "volume": "220",
       "categories__id": 1
     },
@@ -133,7 +133,7 @@
       "title": "кофе По-Венски",
       "image": "https://static.thedaringkitchen.com/wp-content/uploads/2022/01/latte-1536x1024.jpeg",
       "description": "",
-      "price": "215.00",
+      "price": "215",
       "volume": "220",
       "categories__id": 1
     },
@@ -142,7 +142,7 @@
       "title": "кофе Гляссе",
       "image": "https://static.thedaringkitchen.com/wp-content/uploads/2022/01/latte-1536x1024.jpeg",
       "description": "",
-      "price": "215.00",
+      "price": "215",
       "volume": "220",
       "categories__id": 1
     },
@@ -151,7 +151,7 @@
       "title": "коктейль Мохито",
       "image": "https://static.thedaringkitchen.com/wp-content/uploads/2022/01/latte-1536x1024.jpeg",
       "description": "",
-      "price": "215.00",
+      "price": "215",
       "volume": "220",
       "categories__id": 2
     },
@@ -160,7 +160,7 @@
       "title": "коктейль Острый",
       "image": "https://static.thedaringkitchen.com/wp-content/uploads/2022/01/latte-1536x1024.jpeg",
       "description": "",
-      "price": "215.00",
+      "price": "215",
       "volume": "220",
       "categories__id": 2
     },
@@ -169,7 +169,7 @@
       "title": "коктейль Необычный",
       "image": "https://static.thedaringkitchen.com/wp-content/uploads/2022/01/latte-1536x1024.jpeg",
       "description": "",
-      "price": "215.00",
+      "price": "215",
       "volume": "220",
       "categories__id": 2
     },
@@ -178,7 +178,7 @@
       "title": "коктейль Молочный",
       "image": "https://static.thedaringkitchen.com/wp-content/uploads/2022/01/latte-1536x1024.jpeg",
       "description": "",
-      "price": "215.00",
+      "price": "215",
       "volume": "220",
       "categories__id": 2
     },
@@ -187,7 +187,7 @@
       "title": "коктейль Маргарита",
       "image": "https://static.thedaringkitchen.com/wp-content/uploads/2022/01/latte-1536x1024.jpeg",
       "description": "",
-      "price": "215.00",
+      "price": "215",
       "volume": "220",
       "categories__id": 2
     },
@@ -196,7 +196,7 @@
       "title": "коктейль Дайкири",
       "image": "https://static.thedaringkitchen.com/wp-content/uploads/2022/01/latte-1536x1024.jpeg",
       "description": "",
-      "price": "215.00",
+      "price": "215",
       "volume": "220",
       "categories__id": 2
     },
@@ -205,7 +205,7 @@
       "title": "коктейль Фруктовый",
       "image": "data:image/jpeg;base64,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",
       "description": "",
-      "price": "215.00",
+      "price": "215",
       "volume": "220",
       "categories__id": 2
     },
@@ -214,7 +214,7 @@
       "title": "коктейль Ананасовый",
       "image": "data:image/jpeg;base64,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",
       "description": "",
-      "price": "215.00",
+      "price": "215",
       "volume": "220",
       "categories__id": 2
     },
@@ -223,7 +223,7 @@
       "title": "чай Черный",
       "image": "https://static.thedaringkitchen.com/wp-content/uploads/2022/01/latte-1536x1024.jpeg",
       "description": "",
-      "price": "215.00",
+      "price": "215",
       "volume": "220",
       "categories__id": 3
     },
@@ -232,7 +232,7 @@
       "title": "чай Зеленый",
       "image": "https://static.thedaringkitchen.com/wp-content/uploads/2022/01/latte-1536x1024.jpeg",
       "description": "",
-      "price": "215.00",
+      "price": "215",
       "volume": "220",
       "categories__id": 3
     },
@@ -241,7 +241,7 @@
       "title": "чай Имбирный",
       "image": "https://static.thedaringkitchen.com/wp-content/uploads/2022/01/latte-1536x1024.jpeg",
       "description": "",
-      "price": "215.00",
+      "price": "215",
       "volume": "220",
       "categories__id": 3
     },
@@ -250,7 +250,7 @@
       "title": "чай Ромашковый",
       "image": "https://static.thedaringkitchen.com/wp-content/uploads/2022/01/latte-1536x1024.jpeg",
       "description": "",
-      "price": "215.00",
+      "price": "215",
       "volume": "220",
       "categories__id": 3
     },
@@ -259,7 +259,7 @@
       "title": "чай Мятный",
       "image": "https://static.thedaringkitchen.com/wp-content/uploads/2022/01/latte-1536x1024.jpeg",
       "description": "",
-      "price": "215.00",
+      "price": "215",
       "volume": "220",
       "categories__id": 3
     },
@@ -268,7 +268,7 @@
       "title": "чай Красный",
       "image": "https://static.thedaringkitchen.com/wp-content/uploads/2022/01/latte-1536x1024.jpeg",
       "description": "",
-      "price": "215.00",
+      "price": "215",
       "volume": "220",
       "categories__id": 3
     },
@@ -277,7 +277,7 @@
       "title": "чай Белый",
       "image": "https://static.thedaringkitchen.com/wp-content/uploads/2022/01/latte-1536x1024.jpeg",
       "description": "",
-      "price": "215.00",
+      "price": "215",
       "volume": "220",
       "categories__id": 3
     },
@@ -286,7 +286,7 @@
       "title": "чай Улун",
       "image": "https://static.thedaringkitchen.com/wp-content/uploads/2022/01/latte-1536x1024.jpeg",
       "description": "",
-      "price": "215.00",
+      "price": "215",
       "volume": "220",
       "categories__id": 3
     },
@@ -295,7 +295,7 @@
       "title": "Fried1ton Healty food",
       "image": "https://static.thedaringkitchen.com/wp-content/uploads/2022/01/latte-1536x1024.jpeg",
       "description": "",
-      "price": "215.00",
+      "price": "215",
       "volume": "220",
       "categories__id": 4
     },
@@ -304,7 +304,7 @@
       "title": "Сливочный суп",
       "image": "https://static.thedaringkitchen.com/wp-content/uploads/2022/01/latte-1536x1024.jpeg",
       "description": "",
-      "price": "215.00",
+      "price": "215",
       "volume": "220",
       "categories__id": 5
     },
@@ -313,7 +313,7 @@
       "title": "Греческий салат",
       "image": "https://static.thedaringkitchen.com/wp-content/uploads/2022/01/latte-1536x1024.jpeg",
       "description": "",
-      "price": "215.00",
+      "price": "215",
       "volume": "220",
       "categories__id": 6
     },
@@ -322,7 +322,7 @@
       "title": "Гамбургер 'Домашний'",
       "image": "https://static.thedaringkitchen.com/wp-content/uploads/2022/01/latte-1536x1024.jpeg",
       "description": "",
-      "price": "215.00",
+      "price": "215",
       "volume": "220",
       "categories__id": 7
     },
@@ -331,7 +331,7 @@
       "title": "Сырная пицца ",
       "image": "https://static.thedaringkitchen.com/wp-content/uploads/2022/01/latte-1536x1024.jpeg",
       "description": "",
-      "price": "215.00",
+      "price": "215",
       "volume": "220",
       "categories__id": 8
     },
@@ -340,7 +340,7 @@
       "title": "Десерт 'Пазлы '",
       "image": "https://static.thedaringkitchen.com/wp-content/uploads/2022/01/latte-1536x1024.jpeg",
       "description": "",
-      "price": "215.00",
+      "price": "215",
       "volume": "220",
       "categories__id": 9
     },
@@ -349,7 +349,7 @@
       "title": "Закуски к шампанскому",
       "image": "https://static.thedaringkitchen.com/wp-content/uploads/2022/01/latte-1536x1024.jpeg",
       "description": "",
-      "price": "215.00",
+      "price": "215",
       "volume": "220",
       "categories__id": 10
     },
@@ -358,7 +358,7 @@
       "title": "Стейк 'Американское'",
       "image": "https://static.thedaringkitchen.com/wp-content/uploads/2022/01/latte-1536x1024.jpeg",
       "description": "",
-      "price": "215.00",
+      "price": "215",
       "volume": "220",
       "categories__id": 11
     },
@@ -367,7 +367,7 @@
       "title": "Бутерброд 'Праздничный'",
       "image": "https://static.thedaringkitchen.com/wp-content/uploads/2022/01/latte-1536x1024.jpeg",
       "description": "",
-      "price": "215.00",
+      "price": "215",
       "volume": "220",
       "categories__id": 12
     }
