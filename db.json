@@ -301,8 +301,17 @@
     },
     {
       "id": 501,
-      "title": "Сливочный суп",
-      "image": "https://static.thedaringkitchen.com/wp-content/uploads/2022/01/latte-1536x1024.jpeg",
+      "title": "суп Сливочный",
+      "image": "https://static.tildacdn.com/tild3930-3038-4562-b362-666635373264/---oo--.jpg",
+      "description": "",
+      "price": "215",
+      "volume": "220",
+      "categories__id": 5
+    },
+    {
+      "id": 502,
+      "title": "суп Гороховый",
+      "image": "https://attuale.ru/wp-content/uploads/2018/05/shutterstock_752030638-1.jpg",
       "description": "",
       "price": "215",
       "volume": "220",
