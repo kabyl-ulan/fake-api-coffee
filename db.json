@@ -319,8 +319,17 @@
     },
     {
       "id": 601,
-      "title": "Греческий салат",
-      "image": "https://static.thedaringkitchen.com/wp-content/uploads/2022/01/latte-1536x1024.jpeg",
+      "title": "салат Греческий",
+      "image": "https://i.pinimg.com/474x/ff/be/a6/ffbea69226aafe1b01d52748ede392b0.jpg",
+      "description": "",
+      "price": "215",
+      "volume": "220",
+      "categories__id": 6
+    },
+    {
+      "id": 602,
+      "title": "салат Сочный",
+      "image": "https://st2.depositphotos.com/3210553/10408/i/950/depositphotos_104089642-stock-photo-fresh-vegetable-greek-salad-with.jpg",
       "description": "",
       "price": "215",
       "volume": "220",
@@ -328,8 +337,8 @@
     },
     {
       "id": 701,
-      "title": "Гамбургер 'Домашний'",
-      "image": "https://static.thedaringkitchen.com/wp-content/uploads/2022/01/latte-1536x1024.jpeg",
+      "title": "гамбургер Домашний",
+      "image": "https://www.butaworld.com/storage/medias/K68l8hIVTuf326c2a73adbbad3d82820d701249e74.png",
       "description": "",
       "price": "215",
       "volume": "220",
@@ -337,8 +346,26 @@
     },
     {
       "id": 801,
-      "title": "Сырная пицца ",
-      "image": "https://static.thedaringkitchen.com/wp-content/uploads/2022/01/latte-1536x1024.jpeg",
+      "title": "пицца Сырная",
+      "image": "https://academy.oetker.ru/upload/resize_cache/iblock/cf7/750_430_2/cf763fb2e4b643967d7c74d341c3c332.jpg",
+      "description": "",
+      "price": "215",
+      "volume": "220",
+      "categories__id": 8
+    },
+    {
+      "id": 802,
+      "title": "пицца Маргарита",
+      "image": "https://grandkulinar.ru/uploads/posts/2015-05/1431377645_picca-margarita.jpg",
+      "description": "",
+      "price": "215",
+      "volume": "220",
+      "categories__id": 8
+    },
+    {
+      "id": 803,
+      "title": "пицца с Яйцом",
+      "image": "https://grandkulinar.ru/uploads/posts/2015-05/1431377290_picca-s-zavernutymi-krayami.jpg",
       "description": "",
       "price": "215",
       "volume": "220",
@@ -346,8 +373,17 @@
     },
     {
       "id": 901,
-      "title": "Десерт 'Пазлы '",
-      "image": "https://static.thedaringkitchen.com/wp-content/uploads/2022/01/latte-1536x1024.jpeg",
+      "title": "десерт Пазлы",
+      "image": "https://www.fonstola.ru/images/202108/fonstola.ru_429377.jpg",
+      "description": "",
+      "price": "215",
+      "volume": "220",
+      "categories__id": 9
+    },
+    {
+      "id": 902,
+      "title": "десерт Малаби",
+      "image": "https://mykaleidoscope.ru/uploads/posts/2020-01/1579918487_35-p-deserti-malabi-94.jpg",
       "description": "",
       "price": "215",
       "volume": "220",
@@ -355,8 +391,8 @@
     },
     {
       "id": 1001,
-      "title": "Закуски к шампанскому",
-      "image": "https://static.thedaringkitchen.com/wp-content/uploads/2022/01/latte-1536x1024.jpeg",
+      "title": "закуска Холодный",
+      "image": "https://zvezdnychas.ru/wp-content/uploads/c/5/5/c559352d3604d8cbbea4e4b822b3778f.jpeg",
       "description": "",
       "price": "215",
       "volume": "220",
@@ -364,8 +400,8 @@
     },
     {
       "id": 1101,
-      "title": "Стейк 'Американское'",
-      "image": "https://static.thedaringkitchen.com/wp-content/uploads/2022/01/latte-1536x1024.jpeg",
+      "title": "стейк Американское",
+      "image": "https://image.freepik.com/free-photo/succulent-grilled-large-t-bone-steak-garnished-on-cutting-board_114941-757.jpg",
       "description": "",
       "price": "215",
       "volume": "220",
@@ -373,8 +409,8 @@
     },
     {
       "id": 1201,
-      "title": "Бутерброд 'Праздничный'",
-      "image": "https://static.thedaringkitchen.com/wp-content/uploads/2022/01/latte-1536x1024.jpeg",
+      "title": "бутерброд Праздничный",
+      "image": "https://thumbs.dreamstime.com/b/%D1%81%D0%B0%D0%BD-%D0%B2%D0%B8%D1%87%D0%B8-46332809.jpg",
       "description": "",
       "price": "215",
       "volume": "220",
